@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id back_button
+id background_screen
+id color_code_input_field
+id color_code_input_wraper
+id color_code_result_message
+id main
+id submit_button
+id welcome_message
+layout activity_main
+layout activity_result
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string back_button
+string color_code_input_empty
+string color_code_input_invalid
+string color_code_input_message
+string color_code_input_wrong_length
+string color_code_result_message
+string submit_button
+string welcome_message
+style Base.Theme.LAB_WEEK_02_B
+style Theme.LAB_WEEK_02_B
+style button
+style screen_margin
+style text_display
+style text_input
+xml backup_rules
+xml data_extraction_rules
